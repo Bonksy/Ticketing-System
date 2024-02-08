@@ -6,8 +6,8 @@ Welcome to the Ticket Purchasing Application! This console-based application all
 - Features
 - Installation
 - Usage
+- Project Completion
 - Future Plans
-
 
 ### **Features**
 
@@ -31,6 +31,10 @@ To use this application, follow these steps:
 4. Choose whether to proceed with the purchase.
 5. If proceeding, enter your credit card details as prompted.
 6. Upon successful payment, tickets will be sold, and the number of tickets remaining will be updated.
+
+### **Project Completion**
+
+The project implements basic functionality according to user stories. However, there are opportunities for enhancements such as implementing error handling for credit card input and improving the user interface.
 
 ### **Future Plans**
 
