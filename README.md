@@ -21,7 +21,7 @@ To use this application, follow these steps:
 
 1. Clone this repository to your local machine.
 2. Navigate to the directory where the repository was cloned.
-3. Run the application by executing the Python script ticket_purchasing.py.
+3. Run the application by executing the Python script `ticket_purchasing.py`.
 
 ### **Usage**
 
